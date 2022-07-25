@@ -21,7 +21,5 @@
  
  Correo: lucaspereyra470@gmail.com 
  
- Telefono: (+54) 9 223-5410983
- 
  LinkedIn: https://www.linkedin.com/in/lucaspereyradev/
 
