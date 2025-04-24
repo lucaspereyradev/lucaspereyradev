@@ -6,7 +6,7 @@
 
 ## Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,astro,flutter,js,ts,html,css,sass,tailwind,nodejs,mysql,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,astro,js,ts,nestjs,html,css,sass,tailwind,figma,mysql,firebase,googlecloud,postman,git,github)](https://skillicons.dev)
 
 <br />
 
